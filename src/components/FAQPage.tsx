@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import { motion, AnimatePresence } from 'motion/react';
@@ -150,12 +151,12 @@ export default function FAQPage({ onLogout }: FAQPageProps) {
           <p className="text-xl text-blue-100 mb-8">
             Can't find the answer you're looking for? Our customer support team is here to help.
           </p>
-          <a
-            href="/contact"
+          <Link
+            to="/contact"
             className="inline-block bg-white text-blue-600 px-8 py-4 rounded-lg hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
           >
             Contact Us
-          </a>
+          </Link>
         </div>
       </section>
 
