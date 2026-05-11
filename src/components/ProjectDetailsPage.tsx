@@ -107,17 +107,17 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
                   <div className="p-2 bg-green-100 rounded-full">
                     <Award className="w-6 h-6 text-green-600" />
                   </div>
-                  About Our Instructor - Sir Salman
+                  About Our Instructor - Mam Iram
                 </h3>
                 <div className="space-y-4 text-gray-700 text-lg">
                   <p className="leading-relaxed">
-                    Sir Salman is an exceptional educator whose teaching methodology makes complex Software Design and 
-                    Architecture concepts accessible and engaging. His systematic approach to explaining design patterns, 
+                    Mam Iram is an exceptional educator whose teaching methodology makes complex Web Engineering
+                    concepts accessible and engaging. Her systematic approach to explaining design patterns, 
                     SOLID principles, and architectural styles has greatly enhanced our understanding of software engineering.
                   </p>
                   <p className="leading-relaxed">
-                    His emphasis on practical implementation alongside theoretical knowledge has been invaluable. 
-                    Sir Salman encourages creative problem-solving while maintaining industry standards, which has 
+                    Her emphasis on practical implementation alongside theoretical knowledge has been invaluable. 
+                    Mam Iram encourages creative problem-solving while maintaining industry standards, which has 
                     helped us develop both technical skills and professional mindset.
                   </p>
                   <p className="leading-relaxed font-medium text-green-800">
