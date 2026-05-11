@@ -90,7 +90,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
                 </div>
                 <div className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow border border-gray-100">
                   <p className="text-gray-500 mb-2 text-sm uppercase tracking-wider font-semibold">Submission Date</p>
-                  <p className="text-gray-800 text-xl font-bold">December 2025</p>
+                  <p className="text-gray-800 text-xl font-bold">May 2026</p>
                 </div>
               </div>
             </motion.div>
@@ -208,7 +208,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
               </div>
             </motion.div>
 
-            {/* SDA Principles Applied */}
+            {/* Web Principles Applied */}
             <motion.div 
               className="bg-white rounded-2xl shadow-lg p-8 md:p-10 border-t-4 border-teal-600"
               initial={{ opacity: 0, y: 20 }}
@@ -217,7 +217,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
             >
               <div className="flex items-center gap-3 mb-8">
                 <Layers className="w-8 h-8 text-teal-600" />
-                <h2 className="text-3xl font-bold text-gray-800">SDA Principles Applied</h2>
+                <h2 className="text-3xl font-bold text-gray-800">Web Principles Applied</h2>
               </div>
               <div className="bg-teal-50 rounded-xl p-8">
                 <div className="grid md:grid-cols-2 gap-y-4 gap-x-8">
