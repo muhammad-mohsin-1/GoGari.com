@@ -30,7 +30,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
             transition={{ delay: 0.1 }}
             className="text-xl text-blue-100"
           >
-            Software Design and Architecture Project
+            Web Engineering Project
           </motion.p>
         </div>
       </div>
@@ -57,9 +57,9 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
               <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6">
                 <h3 className="text-2xl font-semibold text-gray-800 mb-4">Gogari - Car Rental Website</h3>
                 <p className="text-gray-700 leading-relaxed text-lg">
-                  Gogari is a comprehensive car rental platform built using advanced Software Design and Architecture 
+                  Gogari is a comprehensive car rental platform built using advanced Web Engineering 
                   principles. The project demonstrates the implementation of design patterns, architectural styles, 
-                  and best practices in software engineering to create a scalable, maintainable, and robust web application.
+                  and best practices in web engineering to create a scalable, maintainable, and robust web application.
                 </p>
               </div>
             </motion.div>
@@ -78,7 +78,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow border border-gray-100">
                   <p className="text-gray-500 mb-2 text-sm uppercase tracking-wider font-semibold">Subject</p>
-                  <p className="text-gray-800 text-xl font-bold">Software Design and Architecture</p>
+                  <p className="text-gray-800 text-xl font-bold">Web Engineering</p>
                 </div>
                 <div className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow border border-gray-100">
                   <p className="text-gray-500 mb-2 text-sm uppercase tracking-wider font-semibold">Semester</p>
@@ -86,7 +86,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
                 </div>
                 <div className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow border border-gray-100">
                   <p className="text-gray-500 mb-2 text-sm uppercase tracking-wider font-semibold">Instructor</p>
-                  <p className="text-gray-800 text-xl font-bold">Sir Salman</p>
+                  <p className="text-gray-800 text-xl font-bold">Mam Iram</p>
                 </div>
                 <div className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow border border-gray-100">
                   <p className="text-gray-500 mb-2 text-sm uppercase tracking-wider font-semibold">Submission Date</p>
@@ -113,7 +113,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
                   <p className="leading-relaxed">
                     Mam Iram is an exceptional educator whose teaching methodology makes complex Web Engineering
                     concepts accessible and engaging. Her systematic approach to explaining design patterns, 
-                    SOLID principles, and architectural styles has greatly enhanced our understanding of software engineering.
+                    SOLID principles, and architectural styles has greatly enhanced our understanding of web engineering.
                   </p>
                   <p className="leading-relaxed">
                     Her emphasis on practical implementation alongside theoretical knowledge has been invaluable. 
@@ -122,7 +122,7 @@ export default function ProjectDetailsPage({ user, onLogout }: ProjectDetailsPag
                   </p>
                   <p className="leading-relaxed font-medium text-green-800">
                     We are grateful for his dedication to student success and his ability to inspire us to pursue 
-                    excellence in software development.
+                    excellence in web development.
                   </p>
                 </div>
               </div>
