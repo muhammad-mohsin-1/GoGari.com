@@ -159,7 +159,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-gray-400 text-sm">
-            © 2025 Gogari. All rights reserved.
+            © 2026 Gogari. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm">
             Developed with ❤️ in Pakistan
